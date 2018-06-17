@@ -1,11 +1,8 @@
 # 📝 TODO_LIST 📝  
 
-Things that I want, have and must do.
-- [ ] 💻 🐍 Get Better at Python 🐍 💻
+Things that I want, have, must and need to do.
 
-```python
-print("Get Better at Python")
-```
+##  🏫 College 🎒
 
 - [ ] ✏️ 📐 Study maths 📐 ✏️
 
@@ -13,7 +10,21 @@ print("Get Better at Python")
 
 - [ ] ✏️ 🔭 Study physics 🔭 ✏️
 
+##  📱 Programming 💾
+
 - [ ] 💻 📄 Learn Javascript basics 📄 💻
+
+- [ ] 💻 👾 Learn Computer Science 👾 💻
+
+- [ ] 💻 👾 Learn AI 👾💻
+
+- [ ] 💻 🐍 Get Better at Python 🐍 💻
+
+```python
+print("Get Better at Python")
+```
+
+##  📚 Languages 🔠
 
 - [ ] 📝 📓 Learn Chinese 📓 📝
 
@@ -33,9 +44,7 @@ print("Get Better at Python")
 
 - [ ] 🎓 Get DELF 🎓
 
-- [ ] 💻 👾 Learn Computer Science 👾 💻
-
-- [ ] 💻 👾 Learn AI 👾💻
+##  ✒️ Reading 💭
 
 - [ ] 📖 Read "The Ultimate Writing Guide for Students" by Mignon Fogarty 📖
 
