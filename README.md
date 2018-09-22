@@ -10,6 +10,30 @@ Things that I want, have, must and need to do.
 
 - [ ] ✏️ 🔭 Study physics 🔭 ✏️
 
+- [ ] ✏️ 📄 Look For Masters Programs 📄 ✏️
+
+- [ ] Do a Line Follower
+
+- [ ] Do a Sumo Robot
+
+- [ ] Do a Drone
+
+- [ ] Do a RC robot
+
+- [ ] Think about an start up
+
+- [ ] Convocatorias de concursos
+
+- [ ] CERN application
+
+- [ ] Caltech Space Chanllenge
+
+- [ ] Line Follower Competitions
+
+- [ ] Robo Games USA
+
+- [ ] Think about create a company
+
 ##  📱 Programming 💾
 
 - [ ] 💻 📄 Learn Javascript basics 📄 💻
@@ -19,6 +43,39 @@ Things that I want, have, must and need to do.
 - [ ] 💻 👾 Learn AI 👾💻
 
 - [ ] 💻 🐍 Get Better at Python 🐍 💻
+
+- [ ] Learn HTML
+
+- [ ] Learn CSS
+
+- [ ] Github Intership
+
+- [ ] Google Intership
+
+- [ ] Python Personal Projects
+
+- [ ] Learn Android Development
+
+- [ ] Learn IOS development
+
+- [ ] Learn COmputer Science
+
+- [ ] Learn Java
+
+- [ ] Learn Ruby
+
+- [ ] Learn TypeScript
+
+- [ ] Learn Shellscript
+
+- [ ] Learn Vim
+
+- [ ] Learn Matlab
+
+- [ ] Learn Data Science
+
+- [ ] GitHub Campus Expert
+
 
 ```python
 print("Get Better at Python")
